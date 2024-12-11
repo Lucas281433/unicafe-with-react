@@ -1,0 +1,16 @@
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.card {
+  background-color: #e63946;
+}
+
+.card td {
+  background-color: #e56b6f;
+  border: 1px solid #e63946;
+}

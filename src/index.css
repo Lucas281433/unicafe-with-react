@@ -1,0 +1,19 @@
+.container {
+    min-height: 100vh;
+}
+
+.card {
+    max-width: 20rem;
+}
+
+.card-body {
+    background-color: #0081a7;
+}
+
+.card-title {
+    color: white;
+}
+
+.title-app {
+    color: #99582a;
+}
